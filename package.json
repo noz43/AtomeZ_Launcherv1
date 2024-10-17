@@ -28,12 +28,12 @@
     },
     "devDependencies": {
         "cross-env": "^7.0.3",
-        "electron": "^22.3.24",
+        "electron": "^22.3.27",
         "electron-builder": "^24.6.4",
         "nodemon": "^2.0.16"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Riptiaz/CentralCorp-Launcher.git"
+        "url": "git+https://github.com/noz43/AtomeZ_Launcherv1.git"
     }
 }
