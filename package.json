@@ -1,11 +1,11 @@
 {
-    "name": "Conflictura",
-    "preductname": "Conflictura Launcher",
+    "name": "AtomeZ",
+    "preductname": "AtomeZ",
     "version": "3.0.0",
-    "description": "Conflictura modded server launcher",
+    "description": "AtomeZ",
     "main": "src/app.js",
     "author": "Riptiaz/Boulldogo/Vexato/Luuxis",
-    "settings": "https://dev.conflictura.eu",
+    "settings": "https://panell.atomez.fr",
     "engines": {
         "node": "16.x.x"
     },
