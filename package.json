@@ -1,8 +1,8 @@
 {
-    "name": "AtomeZ",
+    "name": "atomeZ",
     "preductname": "AtomeZ",
     "version": "1.0.0",
-    "description": "AtomeZ",
+    "description": "AtomeZ Serveur post apocalypse ! ",
     "main": "src/app.js",
     "author": "Riptiaz/Boulldogo/Vexato/Luuxis/noz43",
     "settings": "https://panell.atomez.fr",
