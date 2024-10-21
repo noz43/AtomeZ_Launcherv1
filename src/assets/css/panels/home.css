@@ -3,9 +3,9 @@
     bottom: 0;
     width: 100%;
     height: 70px;
-    border-top-left-radius: 40px;
-    border-top-right-radius: 40px;
-    background: #00000080;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    background: #121212;
     display: flex;
 }
 
@@ -151,11 +151,11 @@
     height: 37px;
     border-radius: 20px;
     border: none;
-    background: #00bd7a;
+    background: #a92727;
     font: normal normal bold 20px/25px Poppins;
     color: #121212;
     margin: 15px 0;
-    box-shadow: 0 0 5px #00bd7a;
+    box-shadow: 0 0 5px #a92727;
     cursor: pointer;
 }
 
@@ -186,7 +186,7 @@
 }
 
 .progress-bar::-webkit-progress-value {
-    background-color: #00bd7a;
+    background-color: #a92727;
     border-radius: 10px;
 }
 
@@ -229,7 +229,7 @@ body::-webkit-scrollbar {
     left: 0px;
     width: 100%;
     height: 87px;
-    background-color: #292929;
+    background-color: 181818;
     border-radius: 10px 10px 0px 0px;
     transition: color .2s, filter .2s;
 }
@@ -306,7 +306,7 @@ body::-webkit-scrollbar {
 .bbWrapper {
     position: relative;
     padding: 20px;
-    background-color: #1f1f1f;
+    background-color: #121212;
     font-family: Poppins;
     font-size: 13px !important;
     color: #E1E1E1;
@@ -336,7 +336,7 @@ body::-webkit-scrollbar {
     position: relative;
     width: 100%;
     height: 75px;
-    background-color: #292929;
+    background-color: 181818;
     border-radius: 10px;
     transition: opacity 1s;
     opacity: .8;
@@ -346,7 +346,7 @@ body::-webkit-scrollbar {
     position: relative;
     width: 100%;
     margin-top: 10px;
-    background-color: #292929;
+    background-color: 181818;
     border-radius: 10px;
     transition: opacity 1s;
     opacity: .8;
@@ -360,7 +360,7 @@ body::-webkit-scrollbar {
 .bbWrapperChange {
     position: relative;
     padding: 20px;
-    background-color: #1f1f1f;
+    background-color: #121212;
     font-family: Poppins;
     font-size: 13px !important;
     color: #E1E1E1;
@@ -454,7 +454,7 @@ body::-webkit-scrollbar {
 .video {
     position: relative;
     padding: 10px;
-    background-color: #1f1f1f;
+    background-color: #121212;
     font-family: Poppins;
     font-size: 13px !important;
     color: #E1E1E1;
